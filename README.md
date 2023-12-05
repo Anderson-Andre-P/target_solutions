@@ -20,10 +20,11 @@ O aplicativo possui duas telas principais:
 
 ## Estrutura do Projeto
 
-- **lib/controllers:** Contém os controladores para as telas (login_controller.dart, home_controller.dart).
-- **lib/views:** Contém as telas do aplicativo (login_view.dart, home_view.dart).
-- **lib/widgets:** Contém widgets reutilizáveis, como o CustomTextField.
 - **pubspec.yaml:** Arquivo de configuração do Flutter, listando as dependências do projeto.
+- **lib/main.dart:** arquivo inicial da aplicação.
+- **lib/app/components:** componentes e widgets reutilizáveis, como o custom_text_field.dart.
+- **lib/app/modules:** páginas da aplicação.
+- **lib/app/routes:** rotas da aplicação.
 
 ## Dependências
 
