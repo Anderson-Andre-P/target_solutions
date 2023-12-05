@@ -43,8 +43,6 @@ Certifique-se de ter o Flutter instalado na sua máquina.
 git clone https://github.com/seu-usuario/target_solutions.git
 ```
 
-````
-
 2. Navegue até o diretório do projeto:
 
 ```bash
@@ -66,4 +64,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 ## Licença
 
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-````
