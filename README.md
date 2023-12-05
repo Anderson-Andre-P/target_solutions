@@ -40,7 +40,7 @@ Certifique-se de ter o Flutter instalado na sua máquina.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/target_solutions.git
+git clone https://github.com/Anderson-Andre-P/target_solutions.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -49,7 +49,13 @@ git clone https://github.com/seu-usuario/target_solutions.git
 cd target_solutions
 ```
 
-3. Execute o aplicativo:
+3. Instale as dependências do projeto
+
+```bash
+flutter pub get
+```
+
+4. Execute o aplicativo:
 
 ```bash
 flutter run
